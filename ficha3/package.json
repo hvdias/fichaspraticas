@@ -1,0 +1,14 @@
+{
+  "name": "ficha3",
+  "version": "1.0.0",
+  "description": "ficha 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "author": "Hguo Dias",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

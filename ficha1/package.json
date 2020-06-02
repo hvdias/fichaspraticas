@@ -1,0 +1,17 @@
+{
+  "name": "ficha1",
+  "version": "0.0.1",
+  "description": "Ficha 1 de Programacao III",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ficha1",
+    "ProgramacaoIII",
+    "NodeJS",
+    "React"
+  ],
+  "author": "André Ferreira",
+  "license": "MIT"
+}
